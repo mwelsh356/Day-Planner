@@ -156,4 +156,4 @@ $(".saveBtn").on("click", function (event) {
     console.log(saveIndex);
     saveReminders();
     displayReminders();
-})
+}) 
